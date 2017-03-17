@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Label FontSize="100">Hallo</Label>
+        <Label FontSize="50">Hallo</Label>
     </Grid>
 </Window>
